@@ -1,0 +1,2826 @@
+{
+  "total": 48,
+  "data": [
+    {
+      "id": "az-0",
+      "birthday": "2020-07-10",
+      "slackId": "",
+      "updated": {
+        "seconds": 1595927079,
+        "nanoseconds": 344000000
+      },
+      "email": "admin@azoom.jp",
+      "tel": "",
+      "fullName": "Admin",
+      "positionPermissionId": 11,
+      "isActive": 1,
+      "positionId": 12,
+      "position": "System Admin"
+    },
+    {
+      "updated": {
+        "seconds": 1617786952,
+        "nanoseconds": 657000000
+      },
+      "personalTaxCode": "",
+      "tel": "",
+      "slackId": "",
+      "position": "Director",
+      "birthday": "",
+      "id": "az-00",
+      "fullName": "Yuya Suzuki",
+      "isActive": 1,
+      "address": "",
+      "contract": [
+        {
+          "contractNumber": null,
+          "startDate": null,
+          "contractType": 1,
+          "contractPeriod": null,
+          "endDate": null
+        }
+      ],
+      "totalPaidLeaveDate": 0,
+      "zipCode": "",
+      "positionPermissionId": 10,
+      "bankAccountNumber": "",
+      "created": {
+        "seconds": 1617786952,
+        "nanoseconds": 657000000
+      },
+      "email": "suzuki@azoom.jp",
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Monitor"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Keyboard",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Earphone"
+        },
+        {
+          "key": "Locker",
+          "value": "",
+          "deActive": false
+        }
+      ],
+      "gender": 1,
+      "dateOfJoining": "2019-09-01",
+      "insuranceNumber": "",
+      "positionId": 1
+    },
+    {
+      "totalPaidLeaveDate": 6.5,
+      "address": "Ha Noi",
+      "equipments": [],
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "positionId": 3,
+      "positionPermissionId": 6,
+      "isActive": 1,
+      "zipCode": "100000",
+      "userName": "Nguyễn Thị Minh",
+      "fullName": "Nguyễn Thị Minh",
+      "birthday": "1994-04-22",
+      "email": "n.t.minh@azoom.jp",
+      "position": "Administrative Staff",
+      "tel": "0967922806",
+      "gender": 2,
+      "tempTotalPaidLeaveDate": 6.5,
+      "slackId": "UMS15EX5F",
+      "contractType": 2,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "updated": {
+        "seconds": 1633081809,
+        "nanoseconds": 451000000
+      },
+      "id": "az-02",
+      "contract": [
+        {
+          "startDate": "2019-11-01",
+          "contractType": 2,
+          "contactPeriod": 12,
+          "endDate": "2020-10-31",
+          "contractNumber": "LC/2019/AZV008"
+        }
+      ]
+    },
+    {
+      "position": "Project Leader",
+      "positionPermissionId": 2,
+      "updated": {
+        "seconds": 1633311396,
+        "nanoseconds": 405000000
+      },
+      "slackId": "ULY4VLB7W",
+      "id": "az-04",
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "address": "Số 5, ngách 88, ngõ 57 Mễ Trì Hạ,Nam Từ Liêm,Hà Nội",
+      "zipCode": "10000",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "email": "t.d.tuan@azoom.jp",
+      "contract": [
+        {
+          "contactPeriod": 12,
+          "startDate": "2019-11-01",
+          "contractNumber": "LC/2019/AZV004",
+          "endDate": "2020-10-31",
+          "contractType": 2
+        }
+      ],
+      "tel": "0372914176",
+      "contractType": 2,
+      "isActive": 1,
+      "totalPaidLeaveDate": 6.5,
+      "positionId": 11,
+      "userName": "Thái Doãn Tuấn",
+      "fullName": "Thái Doãn Tuấn",
+      "tempTotalPaidLeaveDate": 6.5,
+      "birthday": "1996-06-17"
+    },
+    {
+      "positionId": 11,
+      "tel": "0372220666",
+      "contract": [
+        {
+          "endDate": "2020-10-31",
+          "contractType": 2,
+          "startDate": "2019-11-01",
+          "contractNumber": "LC/2019/AZV002",
+          "contactPeriod": 12
+        }
+      ],
+      "fullName": "Nguyễn Quốc Hưng",
+      "isActive": 1,
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "contractType": 2,
+      "tempTotalPaidLeaveDate": 2.5,
+      "id": "az-05",
+      "email": "n.q.hung@azoom.jp",
+      "zipCode": "100000",
+      "gender": 1,
+      "totalPaidLeaveDate": 3.5,
+      "userName": "Nguyễn Quốc Hưng",
+      "updated": {
+        "seconds": 1633081862,
+        "nanoseconds": 178000000
+      },
+      "position": "Project Leader",
+      "positionPermissionId": 2,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "equipments": [],
+      "address": "Ha Noi",
+      "birthday": "1996-04-09",
+      "slackId": "UMZL1AZSS"
+    },
+    {
+      "tempTotalPaidLeaveDate": 5.5,
+      "tel": "0978624103",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "position": "Developer",
+      "positionId": "6",
+      "contract": [
+        {
+          "contactPeriod": 12,
+          "endDate": "2020-10-31",
+          "contractNumber": "LC/2019/AZV006",
+          "startDate": "2019-11-01",
+          "contractType": 2
+        }
+      ],
+      "fullName": "Nguyễn Văn Hiến",
+      "contractType": 2,
+      "updated": {
+        "seconds": 1633081886,
+        "nanoseconds": 568000000
+      },
+      "birthday": "1996-06-13",
+      "email": "n.v.hien@azoom.jp",
+      "positionPermissionId": 1,
+      "id": "az-06",
+      "isActive": 1,
+      "zipCode": "10000",
+      "address": "Ninh Bình",
+      "userName": "Nguyễn Văn Hiến",
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "totalPaidLeaveDate": 5.5,
+      "slackId": "UMXEPJ256"
+    },
+    {
+      "userName": "Lê Xuân Duy",
+      "fullName": "Lê Xuân Duy",
+      "position": "Project Leader",
+      "tempTotalPaidLeaveDate": 2,
+      "address": "74, ngách 60, Ngõ 381 Nguyễn Khang, Yên Hòa, Cầu Giấy, Hà Nội",
+      "positionId": 11,
+      "contractType": 2,
+      "equipments": [],
+      "slackId": "UM0KT2Y8N",
+      "email": "l.x.duy@azoom.jp",
+      "totalPaidLeaveDate": 2.5,
+      "updated": {
+        "seconds": 1633081916,
+        "nanoseconds": 362000000
+      },
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "tel": "0974608304",
+      "contract": [
+        {
+          "endDate": "2020-10-31",
+          "contractType": 2,
+          "contactPeriod": 12,
+          "contractNumber": "LC/2019/AZV003",
+          "startDate": "2019-11-01"
+        }
+      ],
+      "positionPermissionId": 2,
+      "isActive": 1,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "id": "az-08",
+      "zipCode": "100000",
+      "gender": 1,
+      "birthday": "1994-10-10"
+    },
+    {
+      "position": "Deputy Director",
+      "fullName": "Phan Hà",
+      "updated": {
+        "seconds": 1633081953,
+        "nanoseconds": 721000000
+      },
+      "equipments": [],
+      "birthday": "1992-09-18",
+      "positionPermissionId": 10,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "id": "az-09",
+      "isActive": 1,
+      "contract": [
+        {
+          "contractType": 2,
+          "endDate": null,
+          "contractNumber": "LC/2019/AZV009",
+          "startDate": "2019-12-05",
+          "contactPeriod": 888
+        }
+      ],
+      "gender": 1,
+      "zipCode": "100000",
+      "tempTotalPaidLeaveDate": 1,
+      "contractType": 2,
+      "tel": "0866027608",
+      "totalPaidLeaveDate": 1,
+      "email": "h.phan@azoom.jp",
+      "userName": "Phan Hà",
+      "slackId": "UK96ZSPP0",
+      "address": "Ha Noi",
+      "positionId": 2
+    },
+    {
+      "equipments": [],
+      "id": "az-10",
+      "userName": "Nguyễn Tài Đức",
+      "address": "Ha Noi",
+      "zipCode": "100000",
+      "slackId": "USC31HXC7",
+      "email": "n.t.duc@azoom.jp",
+      "isActive": 1,
+      "gender": 1,
+      "contractType": 2,
+      "tempTotalPaidLeaveDate": 0,
+      "tel": "0989555816",
+      "contract": [
+        {
+          "contactPeriod": 12,
+          "startDate": "2020-03-09",
+          "endDate": "2021-03-08",
+          "contractNumber": "LC/2020/AZV001",
+          "contractType": 2
+        }
+      ],
+      "totalPaidLeaveDate": 2,
+      "birthday": "1994-04-22",
+      "remindedDates": [
+        "2021/02/26"
+      ],
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "updated": {
+        "seconds": 1633081991,
+        "nanoseconds": 21000000
+      },
+      "position": "Comtor",
+      "positionId": "9",
+      "fullName": "Nguyễn Tài Đức",
+      "positionPermissionId": 1
+    },
+    {
+      "fullName": "Nguyễn Tài Tuấn",
+      "slackId": "UUAHS6F5L",
+      "positionPermissionId": 1,
+      "contract": [
+        {
+          "contractType": 2,
+          "contactPeriod": 12,
+          "startDate": "2020-04-20",
+          "endDate": "2021-04-19",
+          "contractNumber": "LC/2020/AZV012"
+        }
+      ],
+      "birthday": "1993-12-25",
+      "email": "n.t.tuan@azoom.jp",
+      "userName": "Nguyễn Tài Tuấn",
+      "gender": 1,
+      "tel": "0974698893",
+      "address": "Ha Noi",
+      "isActive": 1,
+      "id": "az-23",
+      "equipments": [],
+      "contractType": 2,
+      "positionId": "6",
+      "remindedDates": [
+        "2021/04/09"
+      ],
+      "position": "Developer",
+      "tempTotalPaidLeaveDate": 1,
+      "updated": {
+        "seconds": 1633082042,
+        "nanoseconds": 569000000
+      },
+      "totalPaidLeaveDate": 2,
+      "zipCode": "100000",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      }
+    },
+    {
+      "position": "Developer",
+      "zipCode": "100000",
+      "totalPaidLeaveDate": 1,
+      "userName": "Nguyễn Văn Nguyện",
+      "equipments": [],
+      "id": "az-30",
+      "updated": {
+        "seconds": 1633082095,
+        "nanoseconds": 16000000
+      },
+      "contractType": 2,
+      "positionPermissionId": 1,
+      "email": "n.v.nguyen@azoom.jp",
+      "slackId": "U011VL4SMLJ",
+      "birthday": "1991-02-18",
+      "gender": 1,
+      "contract": [
+        {
+          "endDate": "2021-06-16",
+          "contractNumber": "LC/2020/AZV017",
+          "contactPeriod": 12,
+          "contractType": 2,
+          "startDate": "2020-06-17"
+        }
+      ],
+      "positionId": "6",
+      "fullName": "Nguyễn Văn Nguyện",
+      "tel": "0962859828",
+      "address": "Ha Noi",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "tempTotalPaidLeaveDate": 1,
+      "remindedDates": [
+        "2021/06/07"
+      ],
+      "isActive": 1
+    },
+    {
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "isActive": 1,
+      "contractType": 2,
+      "positionPermissionId": 2,
+      "tempTotalPaidLeaveDate": 1,
+      "birthday": "1996-09-05",
+      "id": "az-35",
+      "email": "n.t.h.nhung@azoom.jp",
+      "gender": 2,
+      "zipCode": "100000",
+      "address": "Ha Noi",
+      "remindedDates": [
+        "2021/06/10"
+      ],
+      "updated": {
+        "seconds": 1633082114,
+        "nanoseconds": 578000000
+      },
+      "positionId": 11,
+      "position": "Project Leader",
+      "equipments": [],
+      "userName": "Ngô Thị Hồng Nhung",
+      "tel": "0967998142",
+      "fullName": "Ngô Thị Hồng Nhung",
+      "totalPaidLeaveDate": 2,
+      "contract": [
+        {
+          "contractNumber": "LC/2020/AZV021",
+          "startDate": "2020-06-21",
+          "contractType": 2,
+          "contactPeriod": 12,
+          "endDate": "2021-06-20"
+        }
+      ],
+      "slackId": "U012GVA6AAD"
+    },
+    {
+      "userName": "Lê Văn Long",
+      "updated": {
+        "seconds": 1633082137,
+        "nanoseconds": 212000000
+      },
+      "tempTotalPaidLeaveDate": 3.5,
+      "positionPermissionId": 1,
+      "birthday": "1995-08-24",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "tel": "0968527073",
+      "zipCode": "100000",
+      "id": "az-36",
+      "position": "Developer",
+      "contract": [
+        {
+          "contractNumber": "LC/2020/AZV022",
+          "startDate": "2020-07-04",
+          "endDate": "2021-07-03",
+          "contactPeriod": 12,
+          "contractType": 2
+        }
+      ],
+      "totalPaidLeaveDate": 3.5,
+      "email": "l.v.long@azoom.jp",
+      "positionId": "6",
+      "slackId": "U012SE071RC",
+      "isActive": 1,
+      "address": "Ha Noi",
+      "fullName": "Lê Văn Long",
+      "remindedDates": [
+        "2021/06/23"
+      ],
+      "contractType": 2
+    },
+    {
+      "positionId": 6,
+      "endDate": "",
+      "birthday": "1997-07-17",
+      "totalPaidLeaveDate": 9.5,
+      "insuranceNumber": "",
+      "created": {
+        "seconds": 1610497708,
+        "nanoseconds": 26000000
+      },
+      "address": "Hà Nội",
+      "contractType": 1,
+      "equipments": [],
+      "bankAccountNumber": "",
+      "zipCode": "100000",
+      "personalTaxCode": "",
+      "position": "Developer",
+      "tel": "0362480012",
+      "isActive": 1,
+      "tempTotalPaidLeaveDate": 9.5,
+      "slackId": "U01JGTEA885",
+      "positionPermissionId": 1,
+      "startDate": "",
+      "id": "az-50",
+      "remindedDates": [
+        "2022/03/07"
+      ],
+      "updated": {
+        "seconds": 1633084641,
+        "nanoseconds": 528000000
+      },
+      "fullName": "Nguyễn Thị Thuỳ Vân",
+      "email": "n.t.t.van@azoom.jp",
+      "contract": [
+        {
+          "endDate": "2021-03-12",
+          "contractNumber": "CT- 040/2021",
+          "contactPeriod": 2,
+          "contractPeriod": "2",
+          "contractType": 1,
+          "startDate": "2021-01-13"
+        },
+        {
+          "endDate": "2022-03-17",
+          "startDate": "2021-03-18",
+          "contractPeriod": "12",
+          "contractNumber": "LC/2021/AZV050",
+          "contractType": 2
+        }
+      ]
+    },
+    {
+      "email": "t.t.m.linh@azoom.jp",
+      "personalTaxCode": "",
+      "contract": [
+        {
+          "endDate": "2021-04-30",
+          "contractPeriod": "2",
+          "contactPeriod": 2,
+          "contractNumber": "CT- 041/2021",
+          "startDate": "2021-03-01",
+          "contractType": 1
+        },
+        {
+          "contractPeriod": "12",
+          "contractNumber": "LC/2021/AZV051",
+          "contractType": 2,
+          "startDate": "2021-05-01",
+          "endDate": "2022-04-30"
+        }
+      ],
+      "positionPermissionId": 1,
+      "birthday": "1998-08-26",
+      "gender": 2,
+      "id": "az-51",
+      "bankAccountNumber": "",
+      "address": "Thường Tín, Hà Nội",
+      "isActive": 1,
+      "zipCode": "100000",
+      "updated": {
+        "seconds": 1633085056,
+        "nanoseconds": 767000000
+      },
+      "position": "Accountant",
+      "positionId": 4,
+      "tempTotalPaidLeaveDate": 7,
+      "insuranceNumber": "",
+      "remindedDates": [
+        "2022/04/20"
+      ],
+      "equipments": [],
+      "fullName": "Tạ Thị Mỹ Linh",
+      "totalPaidLeaveDate": 7,
+      "slackId": "U01PU8HKYH2",
+      "created": {
+        "seconds": 1614556628,
+        "nanoseconds": 174000000
+      },
+      "tel": "0973752018"
+    },
+    {
+      "updated": {
+        "seconds": 1633086054,
+        "nanoseconds": 685000000
+      },
+      "created": {
+        "seconds": 1616985797,
+        "nanoseconds": 523000000
+      },
+      "positionId": 6,
+      "address": "",
+      "contract": [
+        {
+          "contractType": 1,
+          "startDate": "2021-03-29",
+          "contractPeriod": "2",
+          "endDate": "2021-05-29",
+          "contractNumber": "1"
+        },
+        {
+          "contractType": 2,
+          "startDate": "2021-05-31",
+          "endDate": "2022-05-30",
+          "contractPeriod": "12",
+          "contractNumber": "LC/2021/AZV053"
+        }
+      ],
+      "isActive": 1,
+      "dateOfJoining": "2021-03-29",
+      "bankAccountNumber": "",
+      "tempTotalPaidLeaveDate": 5,
+      "birthday": "1991-11-30",
+      "personalTaxCode": "",
+      "totalPaidLeaveDate": 5,
+      "gender": 1,
+      "position": "Developer",
+      "zipCode": "",
+      "id": "az-53",
+      "insuranceNumber": "",
+      "tel": "0966884735",
+      "equipments": [
+        {
+          "value": "",
+          "key": "PC",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Monitor"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Keyboard"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Mouse"
+        },
+        {
+          "value": "",
+          "key": "Earphone",
+          "deActive": false
+        },
+        {
+          "key": "Locker",
+          "value": "",
+          "deActive": false
+        }
+      ],
+      "slackId": "U01SFP9BX1U",
+      "email": "d.q.trung@azoom.jp",
+      "fullName": "Đỗ Quang Trung",
+      "positionPermissionId": 1,
+      "remindedDates": [
+        "2022/05/20"
+      ]
+    },
+    {
+      "updated": {
+        "seconds": 1633312228,
+        "nanoseconds": 355000000
+      },
+      "positionPermissionId": 1,
+      "equipments": [
+        {
+          "detetedDate": "2021-04-12T02:15:36.435Z",
+          "value": "",
+          "deActive": true,
+          "key": "PC"
+        },
+        {
+          "detetedDate": "2021-04-12T02:15:36.966Z",
+          "key": "Monitor",
+          "value": "",
+          "deActive": true
+        },
+        {
+          "value": "",
+          "key": "Macbook",
+          "deActive": true,
+          "detetedDate": "2021-04-12T02:15:37.296Z"
+        },
+        {
+          "deActive": true,
+          "value": "",
+          "detetedDate": "2021-04-12T02:15:37.454Z",
+          "key": "Laptop"
+        },
+        {
+          "deActive": true,
+          "detetedDate": "2021-04-12T02:15:37.619Z",
+          "key": "Keyboard",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": true,
+          "detetedDate": "2021-04-12T02:15:37.781Z"
+        },
+        {
+          "key": "Earphone",
+          "value": "",
+          "deActive": true,
+          "detetedDate": "2021-04-12T02:15:38.199Z"
+        },
+        {
+          "key": "Locker",
+          "deActive": true,
+          "detetedDate": "2021-04-12T02:15:39.080Z",
+          "value": ""
+        }
+      ],
+      "address": "B6A Nam Trung Yen, Hanoi",
+      "id": "az-54",
+      "positionId": 6,
+      "bankAccountNumber": "",
+      "contract": [
+        {
+          "startDate": "2021-04-12",
+          "contractType": 1,
+          "contractNumber": "CT- 054/2021",
+          "endDate": "2021-06-11",
+          "contractPeriod": "2"
+        },
+        {
+          "contractType": 2,
+          "contractPeriod": "12",
+          "contractNumber": "LC/2021/AZV054",
+          "startDate": "2021-06-14",
+          "endDate": "2022-06-13"
+        }
+      ],
+      "email": "tran.nhat.anh@azoom.jp",
+      "fullName": "Trần Nhật Anh",
+      "gender": 2,
+      "zipCode": "100000",
+      "totalPaidLeaveDate": 3.5,
+      "slackId": "U01TRJU4ALW",
+      "insuranceNumber": "",
+      "position": "Developer",
+      "remindedDates": [
+        "2022/06/03"
+      ],
+      "isActive": 1,
+      "tempTotalPaidLeaveDate": 3.5,
+      "birthday": "1996-11-10",
+      "dateOfJoining": "2021-04-12",
+      "tel": "0393712037",
+      "created": {
+        "seconds": 1618191161,
+        "nanoseconds": 306000000
+      },
+      "personalTaxCode": ""
+    },
+    {
+      "email": "vu.thi.ngan@azoom.jp",
+      "dateOfJoining": "2021-05-10",
+      "dateOfIssue": "2014-01-21",
+      "positionId": 6,
+      "zipCode": "100000",
+      "contract": [
+        {
+          "endDate": "2021-07-11",
+          "contractPeriod": "2",
+          "startDate": "2021-05-12",
+          "contractNumber": "1",
+          "contractType": 1
+        },
+        {
+          "contractType": 2,
+          "contractNumber": "LC/2021/AZV055",
+          "startDate": "2021-07-12",
+          "contractPeriod": "12",
+          "endDate": "2022-07-11"
+        }
+      ],
+      "bankAccountNumber": "",
+      "totalPaidLeaveDate": 4,
+      "tel": "0987309320",
+      "personalTaxCode": "",
+      "id": "az-55",
+      "updated": {
+        "seconds": 1633085082,
+        "nanoseconds": 394000000
+      },
+      "insuranceNumber": "",
+      "remindedDates": [
+        "2022/07/01"
+      ],
+      "slackId": "U022223E81W",
+      "gender": 2,
+      "birthday": "2000-10-18",
+      "positionPermissionId": 1,
+      "created": {
+        "seconds": 1620609963,
+        "nanoseconds": 833000000
+      },
+      "nationalIdentityNumber": "013685072",
+      "tempTotalPaidLeaveDate": 2.5,
+      "address": "Kiêu Kỵ, Kiêu Kỵ, Gia Lâm, Hà Nội",
+      "issuingAuthority": "CA Hà Nội",
+      "equipments": [
+        {
+          "key": "PC",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Monitor",
+          "deActive": false
+        },
+        {
+          "key": "Macbook",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "key": "Laptop",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Keyboard"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Mouse"
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Locker",
+          "value": "",
+          "deActive": false
+        }
+      ],
+      "isActive": 1,
+      "position": "Developer",
+      "fullName": "Vũ Thị Ngân"
+    },
+    {
+      "email": "hoang.ngoc.quy@azoom.jp",
+      "id": "az-56",
+      "contract": [
+        {
+          "endDate": "2021-07-06",
+          "contractNumber": "1",
+          "contractPeriod": 2,
+          "contractType": 1,
+          "startDate": "2021-06-07"
+        },
+        {
+          "endDate": "2022-08-08",
+          "contractPeriod": "12",
+          "contractType": 2,
+          "contractNumber": "LC/2021/AZV056",
+          "startDate": "2021-08-09"
+        }
+      ],
+      "positionId": 11,
+      "personalTaxCode": "",
+      "birthday": "1993-11-29",
+      "position": "Project Leader",
+      "isActive": 1,
+      "zipCode": "",
+      "equipments": [
+        {
+          "key": "PC",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Monitor",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Macbook",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Laptop",
+          "deActive": false
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Earphone",
+          "deActive": false
+        },
+        {
+          "key": "Locker",
+          "deActive": false,
+          "value": ""
+        }
+      ],
+      "remindedDates": [
+        "2022/07/29"
+      ],
+      "positionPermissionId": 2,
+      "updated": {
+        "seconds": 1633085116,
+        "nanoseconds": 222000000
+      },
+      "bankAccountNumber": "",
+      "slackId": "U024C0VEXGU",
+      "tempTotalPaidLeaveDate": 3.5,
+      "insuranceNumber": "",
+      "gender": 1,
+      "address": "",
+      "created": {
+        "seconds": 1623029757,
+        "nanoseconds": 132000000
+      },
+      "dateOfJoining": "2021-06-07",
+      "totalPaidLeaveDate": 4,
+      "fullName": "Hoàng Ngọc Quý",
+      "tel": "0869291156"
+    },
+    {
+      "zipCode": "",
+      "positionId": 5,
+      "tel": "0919900925",
+      "contract": [
+        {
+          "contractPeriod": "2",
+          "endDate": "2021-08-13",
+          "contractNumber": "1",
+          "contractType": 1,
+          "startDate": "2021-06-14"
+        },
+        {
+          "contractType": 2,
+          "endDate": "2022-08-15",
+          "startDate": "2021-08-16",
+          "contractNumber": "LC/2021/AZV057",
+          "contractPeriod": "12"
+        }
+      ],
+      "updated": {
+        "seconds": 1633085264,
+        "nanoseconds": 708000000
+      },
+      "birthday": "1992-10-05",
+      "dateOfJoining": "2021-06-14",
+      "email": "hoang.thu.huong@azoom.jp",
+      "personalTaxCode": "",
+      "equipments": [
+        {
+          "key": "PC",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Monitor",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Macbook",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Laptop"
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Mouse"
+        },
+        {
+          "deActive": false,
+          "key": "Earphone",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Locker",
+          "deActive": false
+        }
+      ],
+      "slackId": "U0259JAT64R",
+      "fullName": "Hoàng Thu Hương",
+      "created": {
+        "seconds": 1623632977,
+        "nanoseconds": 948000000
+      },
+      "positionPermissionId": 6,
+      "position": "HR",
+      "insuranceNumber": "",
+      "remindedDates": [
+        "2022/08/05"
+      ],
+      "address": "",
+      "gender": 2,
+      "isActive": 1,
+      "totalPaidLeaveDate": 4,
+      "id": "az-57",
+      "tempTotalPaidLeaveDate": 4,
+      "bankAccountNumber": ""
+    },
+    {
+      "insuranceNumber": "",
+      "address": "",
+      "email": "hoang.van.linh@azoom.jp",
+      "slackId": "U02715410RW",
+      "remindedDates": [
+        "2022/08/19"
+      ],
+      "totalPaidLeaveDate": 3.5,
+      "zipCode": "",
+      "equipments": [
+        {
+          "key": "PC",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Monitor",
+          "deActive": false
+        },
+        {
+          "key": "Macbook",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Laptop",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Keyboard"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Mouse"
+        },
+        {
+          "deActive": false,
+          "key": "Earphone",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Locker",
+          "deActive": false
+        }
+      ],
+      "contract": [
+        {
+          "startDate": "2021-08-30",
+          "contractNumber": "LC/2021/AZV058",
+          "contractPeriod": "12",
+          "endDate": "2022-08-29",
+          "contractType": 2
+        }
+      ],
+      "positionPermissionId": 1,
+      "positionId": 6,
+      "created": {
+        "seconds": 1624842448,
+        "nanoseconds": 172000000
+      },
+      "gender": 1,
+      "bankAccountNumber": "",
+      "dateOfJoining": "2021-06-28",
+      "birthday": "1996-04-20",
+      "tempTotalPaidLeaveDate": 3,
+      "personalTaxCode": "",
+      "position": "Developer",
+      "fullName": "Hoàng Văn Linh",
+      "tel": "0979459833",
+      "updated": {
+        "seconds": 1633085246,
+        "nanoseconds": 427000000
+      },
+      "isActive": 1,
+      "id": "az-58"
+    },
+    {
+      "updated": {
+        "seconds": 1633085332,
+        "nanoseconds": 736000000
+      },
+      "taxNumber": "8612889245",
+      "nationalIdentityNumber": "001097007268",
+      "positionPermissionId": 1,
+      "tempTotalPaidLeaveDate": 4,
+      "bankAccountNumber": "",
+      "position": "Developer",
+      "totalPaidLeaveDate": 4,
+      "dateOfIssue": "2021-04-25",
+      "positionId": 6,
+      "remindedDates": [
+        "2022/09/23"
+      ],
+      "gender": 1,
+      "id": "az-60",
+      "socialInsuranceNumber": "0120628780",
+      "created": {
+        "seconds": 1627866863,
+        "nanoseconds": 67000000
+      },
+      "insuranceNumber": "",
+      "address": "Số 110, ngõ 401, Đường Xuân Đỉnh, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+      "email": "do.truong.giang@azoom.jp",
+      "birthday": "1997-06-14",
+      "isActive": 1,
+      "dateOfJoining": "2021-08-02",
+      "tel": "0989337459",
+      "contract": [
+        {
+          "contractNumber": "LC/2021/AZV060",
+          "startDate": "2021-10-04",
+          "contractPeriod": "12",
+          "endDate": "2022-10-03",
+          "contractType": 2
+        }
+      ],
+      "fullName": "Đỗ Trường Giang",
+      "zipCode": "100000",
+      "slackId": "U029MV5G954",
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Monitor"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Mouse",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Earphone"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Locker"
+        }
+      ],
+      "personalTaxCode": ""
+    },
+    {
+      "contract": [
+        {
+          "contractType": 1,
+          "endDate": "2021-10-08",
+          "contractPeriod": 2,
+          "contractNumber": "CT-062/2021",
+          "startDate": "2021-08-09"
+        }
+      ],
+      "position": "Accountant",
+      "created": {
+        "seconds": 1628480106,
+        "nanoseconds": 923000000
+      },
+      "zipCode": "",
+      "birthday": "2021-08-27",
+      "tempTotalPaidLeaveDate": 0,
+      "positionId": 4,
+      "remindedDates": [
+        "2021/10/01"
+      ],
+      "fullName": "Đào Tuấn Anh",
+      "equipments": [
+        {
+          "key": "PC",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Monitor",
+          "value": ""
+        },
+        {
+          "key": "Macbook",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Laptop"
+        },
+        {
+          "value": "",
+          "key": "Keyboard",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Earphone"
+        },
+        {
+          "key": "Locker",
+          "deActive": false,
+          "value": ""
+        }
+      ],
+      "slackId": "U02AC8NR478",
+      "updated": {
+        "seconds": 1630385405,
+        "nanoseconds": 383000000
+      },
+      "insuranceNumber": "",
+      "gender": 1,
+      "address": "Ngõ 26, Đường Hồ Tùng Mậu, quận Cầu Giấy, Hà Nội",
+      "totalPaidLeaveDate": 0,
+      "bankAccountNumber": "",
+      "isActive": 1,
+      "hometownAddress": "Hưng Yên ",
+      "personalTaxCode": "",
+      "email": "dao.tuan.anh@azoom.jp",
+      "positionPermissionId": 1,
+      "tel": "",
+      "id": "az-62"
+    },
+    {
+      "totalPaidLeaveDate": 0,
+      "gender": 1,
+      "tempTotalPaidLeaveDate": 0,
+      "bankAccountNumber": "",
+      "hometownAddress": "Bắc Sơn, Đô Lương, Nghệ An",
+      "address": "67 Gốc Đề, Minh Khai, Hoàng Mai, Hà Nội",
+      "tel": "0379624499",
+      "positionPermissionId": 1,
+      "contract": [
+        {
+          "contractType": 1,
+          "contractNumber": "CT-063/2021",
+          "contractPeriod": 2,
+          "startDate": "2021-08-11",
+          "endDate": "2021-10-10"
+        }
+      ],
+      "zipCode": "",
+      "position": "Developer",
+      "personalTaxCode": "",
+      "dateOfJoining": "2021-08-11",
+      "isActive": 1,
+      "positionId": 6,
+      "email": "le.trung.kien@azoom.jp",
+      "fullName": "Lê Trung Kiên",
+      "updated": {
+        "seconds": 1628667400,
+        "nanoseconds": 584000000
+      },
+      "slackId": "U02B6DZ05G9",
+      "insuranceNumber": "",
+      "remindedDates": [
+        "2021/10/04"
+      ],
+      "id": "az-63",
+      "birthday": "2021-11-04",
+      "equipments": [
+        {
+          "deActive": false,
+          "value": "",
+          "key": "PC"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Monitor"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Keyboard",
+          "deActive": false
+        },
+        {
+          "key": "Mouse",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Locker"
+        }
+      ],
+      "created": {
+        "seconds": 1628655646,
+        "nanoseconds": 870000000
+      }
+    },
+    {
+      "slackId": "U02AU3CRQCF",
+      "birthday": "1996-02-05",
+      "email": "ngo.van.son@azoom.jp",
+      "personalTaxCode": "",
+      "totalPaidLeaveDate": 0,
+      "dateOfJoining": "2021-08-16",
+      "insuranceNumber": "",
+      "zipCode": "",
+      "contract": [
+        {
+          "startDate": "2021-08-16",
+          "contractType": 1,
+          "endDate": "2021-10-15",
+          "contractNumber": "CT-064/2021",
+          "contractPeriod": 2
+        }
+      ],
+      "fullName": "Ngô Văn Sơn",
+      "positionPermissionId": 1,
+      "updated": {
+        "seconds": 1629093617,
+        "nanoseconds": 820000000
+      },
+      "created": {
+        "seconds": 1629093617,
+        "nanoseconds": 820000000
+      },
+      "equipments": [
+        {
+          "deActive": false,
+          "value": "",
+          "key": "PC"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Monitor"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "value": "",
+          "key": "Laptop",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Keyboard"
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Earphone",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Locker"
+        }
+      ],
+      "address": "Biên Giang - Hà Đông - Hà Nội",
+      "id": "az-64",
+      "isActive": 1,
+      "gender": 1,
+      "remindedDates": [
+        "2021/10/08"
+      ],
+      "positionId": 6,
+      "tel": "0379170680",
+      "bankAccountNumber": "",
+      "position": "Developer",
+      "hometownAddress": "Biên Giang - Hà Đông - Hà Nội"
+    },
+    {
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "value": "",
+          "key": "Monitor",
+          "deActive": false
+        },
+        {
+          "key": "Macbook",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Laptop",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "key": "Locker",
+          "value": ""
+        }
+      ],
+      "id": "az-66",
+      "remindedDates": [
+        "2021/10/15"
+      ],
+      "isActive": 1,
+      "updated": {
+        "seconds": 1629684186,
+        "nanoseconds": 859000000
+      },
+      "slackId": "U02BW7B8B8V",
+      "position": "Developer",
+      "gender": 1,
+      "positionId": 6,
+      "contract": [
+        {
+          "contractNumber": "CT-066/2021",
+          "contractType": 1,
+          "endDate": "2021-10-22",
+          "startDate": "2021-08-23",
+          "contractPeriod": 2
+        }
+      ],
+      "dateOfJoining": "2021-08-23",
+      "created": {
+        "seconds": 1629682595,
+        "nanoseconds": 746000000
+      },
+      "insuranceNumber": "",
+      "positionPermissionId": 1,
+      "birthday": "1999-05-05",
+      "address": "Số 26 ngõ 51/2 Lãng Yên , Hai bà trưng , Hà Nội",
+      "fullName": "Dương Phúc Thắng",
+      "bankAccountNumber": "",
+      "tel": "",
+      "personalTaxCode": "",
+      "zipCode": "",
+      "email": "duong.phuc.thang@azoom.jp",
+      "totalPaidLeaveDate": 0,
+      "tempTotalPaidLeaveDate": 0
+    },
+    {
+      "address": "",
+      "totalPaidLeaveDate": 0,
+      "contract": [
+        {
+          "contractPeriod": "2",
+          "contractNumber": "TTS-067/2021",
+          "startDate": "2021-08-30",
+          "endDate": "2021-10-30",
+          "contractType": 3
+        }
+      ],
+      "tempTotalPaidLeaveDate": 0,
+      "created": {
+        "seconds": 1630290004,
+        "nanoseconds": 303000000
+      },
+      "dateOfJoining": "2021-08-30",
+      "birthday": "1998-05-21",
+      "fullName": "Đặng Văn Hợi",
+      "positionPermissionId": 1,
+      "bankAccountNumber": "",
+      "insuranceNumber": "",
+      "isActive": 1,
+      "position": "Developer Intern",
+      "updated": {
+        "seconds": 1630481368,
+        "nanoseconds": 67000000
+      },
+      "positionId": 14,
+      "email": "dang.van.hoi@azoom.jp",
+      "tel": "0327910404",
+      "personalTaxCode": "",
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "key": "Monitor",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Macbook",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "key": "Laptop",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Mouse",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Earphone",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "key": "Locker",
+          "value": ""
+        }
+      ],
+      "remindedDates": [
+        "2021/10/22"
+      ],
+      "gender": 1,
+      "slackId": "U02DEEZA6LQ",
+      "id": "az-67",
+      "zipCode": ""
+    },
+    {
+      "created": {
+        "seconds": 1630892105,
+        "nanoseconds": 700000000
+      },
+      "address": "",
+      "email": "vo.quang.thanh.dat@azoom.jp",
+      "updated": {
+        "seconds": 1630910949,
+        "nanoseconds": 600000000
+      },
+      "bankAccountNumber": "",
+      "slackId": "U02D1A8EK2T",
+      "dateOfJoining": "2021-09-06",
+      "contract": [
+        {
+          "contractNumber": null,
+          "contractType": 3,
+          "endDate": null,
+          "contractPeriod": 2,
+          "startDate": "2021-09-06"
+        }
+      ],
+      "totalPaidLeaveDate": 0,
+      "fullName": "Võ Quang Thành Đạt",
+      "birthday": "1999-02-04",
+      "positionPermissionId": 1,
+      "insuranceNumber": "",
+      "gender": 1,
+      "isActive": 1,
+      "position": "Developer Intern",
+      "id": "az-68",
+      "zipCode": "",
+      "tel": "0961051368",
+      "personalTaxCode": "",
+      "equipments": [
+        {
+          "deActive": false,
+          "key": "PC",
+          "value": ""
+        },
+        {
+          "key": "Monitor",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "key": "Keyboard",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "key": "Earphone",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Locker"
+        }
+      ],
+      "tempTotalPaidLeaveDate": 0,
+      "positionId": 14
+    },
+    {
+      "personalTaxCode": "",
+      "contract": [
+        {
+          "contractType": 1,
+          "contractNumber": "CT-069/2021",
+          "startDate": "2021-09-30",
+          "contractPeriod": 2,
+          "endDate": "2021-11-29"
+        }
+      ],
+      "id": "az-69",
+      "slackId": "U02G5938810",
+      "email": "hoang.minh.quang@azoom.jp",
+      "dateOfJoining": "2021-09-30",
+      "updated": {
+        "seconds": 1632986629,
+        "nanoseconds": 25000000
+      },
+      "address": "",
+      "fullName": "Hoàng Minh Quang",
+      "zipCode": "",
+      "tel": "0359569551",
+      "totalPaidLeaveDate": 0,
+      "remindedDates": [
+        "2021/11/22"
+      ],
+      "created": {
+        "seconds": 1632982519,
+        "nanoseconds": 699000000
+      },
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Monitor"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Laptop"
+        },
+        {
+          "key": "Keyboard",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Mouse"
+        },
+        {
+          "deActive": false,
+          "key": "Earphone",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Locker"
+        }
+      ],
+      "positionPermissionId": 1,
+      "tempTotalPaidLeaveDate": 0,
+      "position": "Developer",
+      "bankAccountNumber": "",
+      "gender": 1,
+      "positionId": 6,
+      "insuranceNumber": "",
+      "isActive": 1,
+      "birthday": "1993-11-16"
+    },
+    {
+      "remindedDates": [
+        "2021/11/19"
+      ],
+      "bankAccountNumber": "",
+      "zipCode": "",
+      "isActive": 1,
+      "created": {
+        "seconds": 1632713251,
+        "nanoseconds": 400000000
+      },
+      "tel": "0354350066",
+      "position": "Developer",
+      "fullName": "Khuất Đức Khánh",
+      "totalPaidLeaveDate": 0,
+      "dateOfJoining": "2021-09-27",
+      "slackId": "U02GD9LJYL8",
+      "positionPermissionId": 1,
+      "id": "az-70",
+      "gender": 1,
+      "address": "",
+      "equipments": [
+        {
+          "key": "PC",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Monitor",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "key": "Keyboard",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Locker",
+          "value": "",
+          "deActive": false
+        }
+      ],
+      "updated": {
+        "seconds": 1632713251,
+        "nanoseconds": 400000000
+      },
+      "personalTaxCode": "",
+      "email": "khuat.duc.khanh@azoom.jp",
+      "positionId": 6,
+      "birthday": "1997-11-08",
+      "contract": [
+        {
+          "startDate": "2021-09-27",
+          "contractPeriod": 2,
+          "contractNumber": null,
+          "contractType": 1,
+          "endDate": "2021-11-26"
+        }
+      ],
+      "insuranceNumber": ""
+    },
+    {
+      "position": "Developer Intern",
+      "insuranceNumber": "",
+      "positionId": 14,
+      "personalTaxCode": "",
+      "remindedDates": [
+        "2022/03/18"
+      ],
+      "zipCode": "",
+      "equipments": [
+        {
+          "key": "PC",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "key": "Monitor",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Macbook"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Laptop"
+        },
+        {
+          "deActive": false,
+          "key": "Keyboard",
+          "value": ""
+        },
+        {
+          "key": "Mouse",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Earphone"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Locker"
+        }
+      ],
+      "updated": {
+        "seconds": 1632713251,
+        "nanoseconds": 400000000
+      },
+      "gender": 1,
+      "email": "doan.viet.hoang@azoom.jp",
+      "contract": [
+        {
+          "contractType": 3,
+          "contractNumber": null,
+          "endDate": "2022-03-26",
+          "contractPeriod": 6,
+          "startDate": "2021-09-27"
+        }
+      ],
+      "created": {
+        "seconds": 1632713251,
+        "nanoseconds": 400000000
+      },
+      "birthday": "1999-09-05",
+      "totalPaidLeaveDate": 0,
+      "dateOfJoining": "2021-09-27",
+      "id": "az-71",
+      "slackId": "U02FVT48K7E",
+      "bankAccountNumber": "",
+      "tel": "0376838583",
+      "isActive": 1,
+      "positionPermissionId": 1,
+      "fullName": "Đoàn Việt Hoàng",
+      "address": ""
+    },
+    {
+      "created": {
+        "seconds": 1632982519,
+        "nanoseconds": 699000000
+      },
+      "bankAccountNumber": "",
+      "remindedDates": [
+        "2021/11/22"
+      ],
+      "tempTotalPaidLeaveDate": 0,
+      "dateOfJoining": "2021-09-30",
+      "gender": 1,
+      "email": "bui.xuan.thanh@azoom.jp",
+      "birthday": "2001-01-30",
+      "address": "",
+      "contract": [
+        {
+          "contractType": 3,
+          "contractPeriod": 2,
+          "startDate": "2021-09-30",
+          "endDate": "2021-11-29",
+          "contractNumber": "TTS-072/2021"
+        }
+      ],
+      "personalTaxCode": "",
+      "fullName": "Bùi Xuân Thành",
+      "isActive": 1,
+      "tel": "0399372610",
+      "positionId": 14,
+      "position": "Developer Intern",
+      "totalPaidLeaveDate": 0,
+      "equipments": [
+        {
+          "deActive": false,
+          "key": "PC",
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Monitor"
+        },
+        {
+          "key": "Macbook",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Laptop"
+        },
+        {
+          "value": "",
+          "key": "Keyboard",
+          "deActive": false
+        },
+        {
+          "key": "Mouse",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "key": "Locker",
+          "deActive": false,
+          "value": ""
+        }
+      ],
+      "positionPermissionId": 1,
+      "insuranceNumber": "",
+      "id": "az-72",
+      "zipCode": "",
+      "updated": {
+        "seconds": 1632993080,
+        "nanoseconds": 329000000
+      },
+      "slackId": "U02G7DAN3GU"
+    },
+    {
+      "fullName": "Trần Thành Tuấn",
+      "gender": 1,
+      "zipCode": "",
+      "address": "",
+      "tempTotalPaidLeaveDate": 0,
+      "birthday": "1997-09-07",
+      "equipments": [
+        {
+          "deActive": false,
+          "key": "PC",
+          "value": ""
+        },
+        {
+          "key": "Monitor",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "value": "",
+          "key": "Macbook",
+          "deActive": false
+        },
+        {
+          "key": "Laptop",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "key": "Keyboard",
+          "value": "",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Mouse"
+        },
+        {
+          "key": "Earphone",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Locker",
+          "deActive": false
+        }
+      ],
+      "tel": "0833909333",
+      "remindedDates": [
+        "2021/11/26"
+      ],
+      "created": {
+        "seconds": 1633318812,
+        "nanoseconds": 877000000
+      },
+      "position": "Developer",
+      "email": "tran.thanh.tuan@azoom.jp",
+      "id": "az-73",
+      "dateOfJoining": "2021-10-04",
+      "bankAccountNumber": "",
+      "positionId": 6,
+      "insuranceNumber": "",
+      "totalPaidLeaveDate": 0,
+      "slackId": "U02H6J8MVUG",
+      "contract": [
+        {
+          "contractPeriod": 2,
+          "endDate": "2021-12-03",
+          "contractType": 1,
+          "startDate": "2021-10-04",
+          "contractNumber": null
+        }
+      ],
+      "positionPermissionId": 1,
+      "personalTaxCode": "",
+      "updated": {
+        "seconds": 1633333484,
+        "nanoseconds": 117000000
+      },
+      "isActive": 1
+    },
+    {
+      "created": {
+        "seconds": 1615272130,
+        "nanoseconds": 725000000
+      },
+      "totalPaidLeaveDate": 0,
+      "bankAccountNumber": "",
+      "email": "n.d.phong@azoom.jp",
+      "tempTotalPaidLeaveDate": 0,
+      "id": "az-997",
+      "insuranceNumber": "",
+      "slackId": "UD480426P",
+      "contract": [
+        {
+          "contactPeriod": null,
+          "endDate": null,
+          "contractNumber": null,
+          "contractType": 1,
+          "startDate": null
+        }
+      ],
+      "gender": 1,
+      "birthday": "1993-08-04",
+      "isActive": 1,
+      "address": "Tokyo, Japan",
+      "positionId": 11,
+      "equipments": [],
+      "tel": "",
+      "updated": {
+        "seconds": 1629875524,
+        "nanoseconds": 649000000
+      },
+      "fullName": "Nguyễn Đông Phong",
+      "personalTaxCode": "",
+      "positionPermissionId": 2,
+      "position": "Project Leader",
+      "zipCode": ""
+    },
+    {
+      "tempTotalPaidLeaveDate": 10,
+      "endDate": "",
+      "id": "az-998",
+      "slackId": "",
+      "totalPaidLeaveDate": 10,
+      "address": "",
+      "email": "y.ishii@azoom.jp",
+      "updated": {
+        "seconds": 1627893574,
+        "nanoseconds": 935000000
+      },
+      "fullName": "Yoshinori Ishii",
+      "startDate": "",
+      "position": "Project Manager",
+      "birthday": "",
+      "tel": "",
+      "contractType": 2,
+      "isActive": 1,
+      "positionPermissionId": 2,
+      "zipCode": "",
+      "created": {
+        "seconds": 1600301771,
+        "nanoseconds": 268000000
+      },
+      "positionId": 11
+    },
+    {
+      "position": "CG Creater",
+      "contractType": 2,
+      "email": "n.n.them@cgworks.jp",
+      "positionPermissionId": 1,
+      "slackId": "",
+      "id": "cg-03",
+      "isActive": 1,
+      "updated": {
+        "seconds": 1633085801,
+        "nanoseconds": 293000000
+      },
+      "totalPaidLeaveDate": 5.5,
+      "tel": "0392188661",
+      "equipments": [],
+      "address": "Ha Noi",
+      "remindedDates": [
+        "2020/10/21"
+      ],
+      "gender": 1,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "zipCode": "100000",
+      "tempTotalPaidLeaveDate": 5.5,
+      "positionId": 8,
+      "contract": [
+        {
+          "contractNumber": "LC/2019/AZV007",
+          "contractType": 2,
+          "startDate": "2019-11-01",
+          "contactPeriod": 12,
+          "endDate": "2020-10-31"
+        }
+      ],
+      "userName": "Nguyễn Như Thêm",
+      "fullName": "Nguyễn Như Thêm",
+      "birthday": "1995-07-06"
+    },
+    {
+      "contractType": 2,
+      "positionId": 8,
+      "remindedDates": [
+        "2021/02/25"
+      ],
+      "tempTotalPaidLeaveDate": 4,
+      "isActive": 1,
+      "updated": {
+        "seconds": 1633085846,
+        "nanoseconds": 611000000
+      },
+      "address": "Ha Noi ",
+      "equipments": [],
+      "contract": [
+        {
+          "contractNumber": "LC/2020/AZV003",
+          "contactPeriod": 12,
+          "startDate": "2020-03-08",
+          "contractType": 2,
+          "endDate": "2021-03-07"
+        }
+      ],
+      "fullName": "Ngô Thị Hồng Ngọc",
+      "email": "n.t.h.ngoc@cgworks.jp",
+      "positionPermissionId": 1,
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "gender": 2,
+      "tel": "0369655369",
+      "position": "CG Creater",
+      "userName": "Ngô Thị Hồng Ngọc",
+      "totalPaidLeaveDate": 4.5,
+      "zipCode": "100000",
+      "id": "cg-11",
+      "birthday": "1995-03-14",
+      "slackId": ""
+    },
+    {
+      "userName": "Đỗ Thị Lan Anh",
+      "gender": 2,
+      "tel": "0392255040",
+      "positionPermissionId": 1,
+      "slackId": "",
+      "updated": {
+        "seconds": 1633085887,
+        "nanoseconds": 364000000
+      },
+      "tempTotalPaidLeaveDate": 7,
+      "id": "cg-18",
+      "address": "Ha Noi",
+      "remindedDates": [
+        "2021/03/23"
+      ],
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "totalPaidLeaveDate": 7.5,
+      "equipments": [],
+      "birthday": "1993-03-18",
+      "zipCode": "100000",
+      "email": "d.t.lananh@cgworks.jp",
+      "isActive": 1,
+      "positionId": 8,
+      "contractType": 2,
+      "position": "CG Creater",
+      "contract": [
+        {
+          "contractType": 2,
+          "contactPeriod": 12,
+          "startDate": "2020-04-03",
+          "contractNumber": "LC/2020/AZV007",
+          "endDate": "2021-04-02"
+        }
+      ],
+      "fullName": "Đỗ Thị Lan Anh"
+    },
+    {
+      "updated": {
+        "seconds": 1633311568,
+        "nanoseconds": 353000000
+      },
+      "slackId": "",
+      "contractType": 2,
+      "userName": "Trần Anh Tuấn",
+      "fullName": "Trần Anh Tuấn",
+      "positionId": 8,
+      "gender": 1,
+      "birthday": "1994-01-09",
+      "isActive": 1,
+      "email": "t.a.tuan@cgworks.jp",
+      "address": "Ha Noi",
+      "contract": [
+        {
+          "endDate": "2021-04-02",
+          "contractType": 2,
+          "contractNumber": "LC/2020/AZV008",
+          "contactPeriod": 12,
+          "startDate": "2020-04-03"
+        }
+      ],
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "position": "CG Creater",
+      "totalPaidLeaveDate": 8,
+      "remindedDates": [
+        "2021/03/23"
+      ],
+      "tel": "09785741667",
+      "id": "cg-19",
+      "tempTotalPaidLeaveDate": 8,
+      "equipments": [],
+      "positionPermissionId": 1,
+      "zipCode": "100000"
+    },
+    {
+      "positionPermissionId": 1,
+      "tel": "0814999464",
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "equipments": [],
+      "userName": "Nguyễn Viết Giáp",
+      "contractType": 2,
+      "contract": [
+        {
+          "contactPeriod": 12,
+          "endDate": "2021-04-02",
+          "startDate": "2020-04-03",
+          "contractNumber": "LC/2020/AZV009",
+          "contractType": 2
+        }
+      ],
+      "gender": 1,
+      "birthday": "1994-11-06",
+      "zipCode": "100000",
+      "fullName": "Nguyễn Viết Giáp",
+      "remindedDates": [
+        "2021/03/23"
+      ],
+      "email": "n.v.giap@cgworks.jp",
+      "id": "cg-20",
+      "totalPaidLeaveDate": 7.5,
+      "isActive": 1,
+      "positionId": 8,
+      "slackId": "",
+      "updated": {
+        "seconds": 1633085900,
+        "nanoseconds": 176000000
+      },
+      "tempTotalPaidLeaveDate": 7,
+      "position": "CG Creater",
+      "address": "Ha Noi"
+    },
+    {
+      "created": {
+        "seconds": 1590913843,
+        "nanoseconds": 828000000
+      },
+      "birthday": "1992-08-24",
+      "tempTotalPaidLeaveDate": 6.5,
+      "id": "cg-29",
+      "contract": [
+        {
+          "startDate": "2020-05-12",
+          "endDate": "2021-05-11",
+          "contractType": 2,
+          "contractNumber": "LC/2020/AZV016",
+          "contactPeriod": 12
+        }
+      ],
+      "position": "CG Creater",
+      "remindedDates": [
+        "2021/04/29"
+      ],
+      "zipCode": "100000",
+      "address": "Ha Noi",
+      "userName": "Phan Kim Tôn",
+      "positionPermissionId": 1,
+      "fullName": "Phan Kim Tôn",
+      "positionId": 8,
+      "isActive": 1,
+      "slackId": "",
+      "contractType": 2,
+      "totalPaidLeaveDate": 6.5,
+      "tel": "0379997395",
+      "email": "p.k.ton@cgworks.jp",
+      "updated": {
+        "seconds": 1633312238,
+        "nanoseconds": 444000000
+      },
+      "gender": 1,
+      "equipments": []
+    },
+    {
+      "fullName": "Bùi Văn Giỏi",
+      "contractType": 2,
+      "contract": [
+        {
+          "startDate": "2020-12-01",
+          "contactPeriod": 12,
+          "contractNumber": "",
+          "contractType": 2,
+          "endDate": "2021-11-30"
+        }
+      ],
+      "email": "b.v.gioi@cgworks.jp",
+      "positionPermissionId": 1,
+      "zipCode": "",
+      "id": "cg-41",
+      "updated": {
+        "seconds": 1633085917,
+        "nanoseconds": 435000000
+      },
+      "position": "CG Creater",
+      "created": {
+        "seconds": 1601607597,
+        "nanoseconds": 505000000
+      },
+      "gender": 1,
+      "equipments": [],
+      "positionId": 8,
+      "totalPaidLeaveDate": 2.5,
+      "insuranceNumber": "",
+      "slackId": "",
+      "endDate": "",
+      "remindedDates": [
+        "2021/11/19"
+      ],
+      "address": "Ha Noi",
+      "personalTaxCode": "",
+      "tel": "",
+      "isActive": 1,
+      "birthday": "1994-03-20",
+      "tempTotalPaidLeaveDate": 2.5,
+      "startDate": "",
+      "bankAccountNumber": ""
+    },
+    {
+      "positionId": 8,
+      "fullName": "Lê Tuấn Anh",
+      "isActive": 1,
+      "totalPaidLeaveDate": 3,
+      "tel": "0365524592",
+      "slackId": "",
+      "birthday": "1997-10-30",
+      "positionPermissionId": 1,
+      "remindedDates": [
+        "2021/11/19"
+      ],
+      "personalTaxCode": "",
+      "tempTotalPaidLeaveDate": 2,
+      "startDate": "",
+      "address": "a13 to 20 thi tran dong anh dong anh ha noi",
+      "id": "cg-42",
+      "contractType": 2,
+      "endDate": "",
+      "insuranceNumber": "",
+      "position": "CG Creater",
+      "contract": [
+        {
+          "contactPeriod": 12,
+          "startDate": "2020-12-01",
+          "endDate": "2021-11-30",
+          "contractType": 2,
+          "contractNumber": ""
+        }
+      ],
+      "email": "l.t.anh@cgworks.jp",
+      "bankAccountNumber": "",
+      "zipCode": "",
+      "created": {
+        "seconds": 1601607597,
+        "nanoseconds": 505000000
+      },
+      "updated": {
+        "seconds": 1633085944,
+        "nanoseconds": 696000000
+      }
+    },
+    {
+      "contractType": 2,
+      "positionId": 8,
+      "personalTaxCode": "",
+      "isActive": 1,
+      "birthday": "1995-11-29",
+      "email": "d.d.khanh@cgworks.jp",
+      "endDate": "",
+      "tempTotalPaidLeaveDate": 5,
+      "positionPermissionId": 1,
+      "startDate": "",
+      "bankAccountNumber": "",
+      "totalPaidLeaveDate": 5,
+      "equipments": [],
+      "gender": 1,
+      "updated": {
+        "seconds": 1633312253,
+        "nanoseconds": 604000000
+      },
+      "id": "cg-45",
+      "created": {
+        "seconds": 1601607597,
+        "nanoseconds": 505000000
+      },
+      "tel": "",
+      "slackId": "",
+      "insuranceNumber": "",
+      "address": "Ha Noi",
+      "contract": [
+        {
+          "contractType": 2,
+          "startDate": "2020-12-01",
+          "contactPeriod": 12,
+          "endDate": "2021-11-30",
+          "contractNumber": ""
+        }
+      ],
+      "fullName": "Đỗ Duy Khánh",
+      "zipCode": "",
+      "remindedDates": [
+        "2021/11/19"
+      ],
+      "position": "CG Creater"
+    },
+    {
+      "gender": 1,
+      "updated": {
+        "seconds": 1633085969,
+        "nanoseconds": 968000000
+      },
+      "personalTaxCode": "",
+      "equipments": [],
+      "tempTotalPaidLeaveDate": 8.5,
+      "fullName": "Lý Anh Đức",
+      "isActive": 1,
+      "startDate": "",
+      "insuranceNumber": "",
+      "birthday": "1982-05-01",
+      "contract": [
+        {
+          "endDate": "2021-01-01",
+          "startDate": "2020-01-02",
+          "contactPeriod": 12,
+          "contractNumber": "LC/2021/AZV030",
+          "contractType": 2
+        }
+      ],
+      "endDate": "",
+      "address": "Phòng B1408 Khu đô thị Green Pearl, Số 378 Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, TP Hà Nội, Việt Nam",
+      "contractType": 2,
+      "totalPaidLeaveDate": 8.5,
+      "slackId": "",
+      "bankAccountNumber": "",
+      "created": {
+        "seconds": 1604310819,
+        "nanoseconds": 959000000
+      },
+      "remindedDates": [
+        "2020/12/22"
+      ],
+      "positionId": 11,
+      "id": "cg-46",
+      "position": "Project Leader",
+      "zipCode": "100000",
+      "email": "l.a.duc@cgworks.jp",
+      "positionPermissionId": 2,
+      "tel": "0862480551"
+    },
+    {
+      "slackId": "",
+      "isActive": 1,
+      "contractType": 2,
+      "birthday": "1993-07-24",
+      "contract": [
+        {
+          "contractType": 2,
+          "startDate": "2020-01-09",
+          "contactPeriod": 12,
+          "endDate": "2021-01-08",
+          "contractNumber": "LC/2021/AZV031"
+        }
+      ],
+      "tel": "",
+      "email": "n.t.long@cgworks.jp",
+      "zipCode": "",
+      "tempTotalPaidLeaveDate": 3,
+      "gender": 1,
+      "insuranceNumber": "",
+      "position": "CG Creater",
+      "fullName": "Nguyễn Tâm Long",
+      "personalTaxCode": "",
+      "id": "cg-47",
+      "totalPaidLeaveDate": 3,
+      "bankAccountNumber": "",
+      "remindedDates": [
+        "2020/12/29"
+      ],
+      "positionId": 8,
+      "address": "Ha Noi",
+      "startDate": "",
+      "created": {
+        "seconds": 1604967938,
+        "nanoseconds": 30000000
+      },
+      "endDate": "",
+      "positionPermissionId": 1,
+      "equipments": [],
+      "updated": {
+        "seconds": 1633085982,
+        "nanoseconds": 971000000
+      }
+    },
+    {
+      "positionPermissionId": 1,
+      "email": "n.k.trang@cgworks.jp",
+      "zipCode": "",
+      "tel": "",
+      "insuranceNumber": "",
+      "endDate": "",
+      "contractType": 1,
+      "isActive": 1,
+      "updated": {
+        "seconds": 1633086020,
+        "nanoseconds": 492000000
+      },
+      "address": "Ha Noi",
+      "fullName": "Nguyễn Khánh Trang",
+      "id": "cg-49",
+      "position": "CG Creater",
+      "positionId": 8,
+      "startDate": "",
+      "bankAccountNumber": "",
+      "birthday": "1987-07-28",
+      "tempTotalPaidLeaveDate": 7,
+      "created": {
+        "seconds": 1606786850,
+        "nanoseconds": 892000000
+      },
+      "contract": [
+        {
+          "startDate": "2021-02-01",
+          "contactPeriod": 12,
+          "contractNumber": "LC/2021/AZV032",
+          "contractType": 2,
+          "endDate": "2022-01-31"
+        }
+      ],
+      "equipments": [],
+      "totalPaidLeaveDate": 7,
+      "gender": 2,
+      "slackId": "",
+      "personalTaxCode": "",
+      "remindedDates": [
+        "2022/01/21"
+      ]
+    },
+    {
+      "birthday": "1989-11-08",
+      "positionPermissionId": 1,
+      "tempTotalPaidLeaveDate": 4,
+      "bankAccountNumber": "",
+      "issuingAuthority": "Cục Cảnh Sát ĐKQL cư trú và DLQG về dân cư",
+      "taxNumber": "8605502592",
+      "contract": [
+        {
+          "contractType": 2,
+          "endDate": "2022-10-03",
+          "startDate": "2021-10-04",
+          "contractNumber": "LC/2021/AZV061",
+          "contractPeriod": "12"
+        }
+      ],
+      "id": "cg-61",
+      "personalTaxCode": "",
+      "dateOfIssue": "2019-06-12",
+      "insuranceNumber": "",
+      "fullName": "Nguyễn Thành Luân",
+      "tel": "0862990158",
+      "nationalIdentityNumber": "036089009224",
+      "created": {
+        "seconds": 1627890090,
+        "nanoseconds": 251000000
+      },
+      "positionId": 8,
+      "slackId": "",
+      "isActive": 1,
+      "hometownAddress": "Nghĩa Tân, Nghĩa Hưng, Nam Định",
+      "dateOfJoining": "2021-08-02",
+      "remindedDates": [
+        "2022/09/23"
+      ],
+      "gender": 1,
+      "zipCode": "100000",
+      "email": "n.t.luan@cgworks.jp",
+      "totalPaidLeaveDate": 4,
+      "updated": {
+        "seconds": 1633086032,
+        "nanoseconds": 654000000
+      },
+      "address": "Số 4 Ngách 7, ngõ 858 Kim Giang, Huyện Thanh Trì, Thành phố Hà Nội",
+      "position": "CG Creater",
+      "equipments": [
+        {
+          "value": "",
+          "deActive": false,
+          "key": "PC"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Monitor"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Macbook"
+        },
+        {
+          "key": "Laptop",
+          "deActive": false,
+          "value": ""
+        },
+        {
+          "deActive": false,
+          "key": "Keyboard",
+          "value": ""
+        },
+        {
+          "value": "",
+          "key": "Mouse",
+          "deActive": false
+        },
+        {
+          "deActive": false,
+          "value": "",
+          "key": "Earphone"
+        },
+        {
+          "value": "",
+          "deActive": false,
+          "key": "Locker"
+        }
+      ]
+    }
+  ]
+}
